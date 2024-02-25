@@ -1,0 +1,7 @@
+&dos
+  outdir = './tmp/'
+  prefix = 'cu'
+  fildos = 'cu.dos'
+  Emin = 5, Emax = 25.0, DeltaE = 0.1
+  ngauss = 1, degauss = 0.02
+/
